@@ -1,5 +1,5 @@
-# LambdaCDKExample
+# Lambda Scheduler 
 
-### This is a sample CDK project to create AWS Lambda function. I have covered this under complete tutorial on my YouTube channnel (link below).
+### In this project, I have created one Lambda function which is invoked after every 2 minutes. 
 
 https://www.youtube.com/c/AjayWadhara/videos
